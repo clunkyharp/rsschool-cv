@@ -32,11 +32,11 @@ The function takes a name as its only argument, and returns one of the following
 
 ####Solution:
 function areYouPlayingBanjo(name) {
-if (name[0].toLowerCase() === "r") {
-return `${name} plays banjo`;
-} else {
-return `${name} does not play banjo`;
-}
+	if (name[0].toLowerCase() === "r") {
+		return `${name} plays banjo`;
+	} else {
+		return `${name} does not play banjo`;
+	}
 }
 
 ---
