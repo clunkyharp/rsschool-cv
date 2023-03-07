@@ -42,7 +42,7 @@ function areYouPlayingBanjo(name) {
 ---
 
 ##Experience:
-At the moment, I haven't had a chance to implement personal projects yet.
+At the moment I haven't had a chance to implement personal projects yet.
 
 ---
 
